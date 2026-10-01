@@ -6,6 +6,10 @@
 
 <p align="center"><img src="docs/screenshots/radiosave.png" alt="RadioSave screenshot" width="900"></p>
 
+## How it works
+
+<p align="center"><img src="docs/screenshots/how-it-works.png" alt="How it works" width="900"></p>
+
 ## What it does
 
 - Records stations on a weekly schedule using ffmpeg and names each file `YYYY-MM-DD-HHh-HHh - PROGRAM.mp3`
